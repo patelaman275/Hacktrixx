@@ -1,0 +1,477 @@
+{
+  "button1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "58b3a",
+    "height": 1
+  },
+  "chart1": {
+    "container": "tabbedContainer2",
+    "subcontainer": "9cb1c",
+    "row": 0.6,
+    "height": 7,
+    "width": 6
+  },
+  "chart2": {
+    "container": "tabbedContainer2",
+    "subcontainer": "a87f9",
+    "row": 1.2,
+    "height": 7.2,
+    "width": 12
+  },
+  "container1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "58b3a",
+    "row": 22,
+    "height": 0.2,
+    "width": 12
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "date1": {
+    "container": "form1",
+    "row": 12.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "dateTime1": {
+    "container": "form1",
+    "row": 4.4,
+    "height": 0.2,
+    "width": 11
+  },
+  "dateTime2": {
+    "container": "form1",
+    "row": 4.6,
+    "height": 0.2,
+    "width": 11
+  },
+  "divider1": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "divider2": {
+    "container": "form1",
+    "row": 4.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "divider3": {
+    "container": "form1",
+    "row": 7.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "form1": {
+    "subcontainer": "modalFrame1",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "form2": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "formButton1": {
+    "container": "form1",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton2": {
+    "container": "form2",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "formTitle1": {
+    "container": "form1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle2": {
+    "container": "form2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "height": 0.6,
+    "width": 9
+  },
+  "numberInput1": {
+    "container": "form2",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "progressCircle1": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 2,
+    "height": 3.8,
+    "width": 6
+  },
+  "progressCircle2": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 2,
+    "col": 7,
+    "height": 3.8,
+    "width": 4
+  },
+  "select1": {
+    "container": "form2",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "statistic1": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 0,
+    "height": 0.8,
+    "width": 5
+  },
+  "tabbedContainer1": {
+    "row": 16.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "tabbedContainer2": {
+    "row": 3.6,
+    "col": 5,
+    "height": 0.2,
+    "width": 7
+  },
+  "table1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "58b3a",
+    "row": 1.2,
+    "height": 20,
+    "width": 12
+  },
+  "table2": {
+    "container": "tabbedContainer1",
+    "subcontainer": "9cb1c",
+    "row": 0.8,
+    "height": 20,
+    "width": 12
+  },
+  "table3": {
+    "row": 3.6,
+    "height": 10.4,
+    "width": 4
+  },
+  "table4": {
+    "container": "tabbedContainer2",
+    "subcontainer": "9cb1c",
+    "row": 0.6,
+    "col": 6,
+    "height": 7,
+    "width": 6
+  },
+  "table5": {
+    "container": "tabbedContainer2",
+    "subcontainer": "12f40",
+    "row": 0.4,
+    "height": 8,
+    "width": 12
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.8,
+    "width": 12
+  },
+  "tabs2": {
+    "container": "tabbedContainer2",
+    "rowGroup": "header",
+    "row": 1,
+    "height": 0.8,
+    "width": 12
+  },
+  "text1": {
+    "row": 15.8,
+    "height": 1,
+    "width": 4
+  },
+  "text11": {
+    "container": "form1",
+    "height": 0.6,
+    "width": 12
+  },
+  "text12": {
+    "container": "form2",
+    "height": 0.6,
+    "width": 11
+  },
+  "text13": {
+    "container": "form2",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text14": {
+    "container": "form2",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 4
+  },
+  "text15": {
+    "container": "form2",
+    "row": 6.6,
+    "height": 0.6,
+    "width": 9
+  },
+  "text16": {
+    "container": "form2",
+    "row": 7.2,
+    "height": 0.6,
+    "width": 9
+  },
+  "text17": {
+    "container": "form2",
+    "row": 7.8,
+    "height": 0.6,
+    "width": 9
+  },
+  "text18": {
+    "container": "form2",
+    "row": 1.2,
+    "col": 4,
+    "height": 0.6,
+    "width": 8
+  },
+  "text19": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 0.4,
+    "height": 0.6,
+    "width": 4
+  },
+  "text2": {
+    "container": "tabbedContainer1",
+    "subcontainer": "9cb1c",
+    "height": 0.6,
+    "width": 5
+  },
+  "text20": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 4
+  },
+  "text21": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 2.2,
+    "height": 0.6,
+    "width": 2
+  },
+  "text22": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 3,
+    "height": 0.6,
+    "width": 2
+  },
+  "text23": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 3.8,
+    "height": 0.6,
+    "width": 2
+  },
+  "text24": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 2.2,
+    "col": 2,
+    "height": 0.6
+  },
+  "text25": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 3.8,
+    "col": 2,
+    "height": 0.6
+  },
+  "text26": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 3,
+    "col": 2,
+    "height": 0.6
+  },
+  "text27": {
+    "row": 3,
+    "col": 5,
+    "height": 0.6
+  },
+  "text28": {
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "text3": {
+    "row": 3,
+    "height": 0.6
+  },
+  "text4": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 1.4,
+    "height": 0.6,
+    "width": 6
+  },
+  "text5": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 5.8,
+    "height": 0.6,
+    "width": 5
+  },
+  "text6": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 5.8,
+    "col": 7,
+    "height": 0.6,
+    "width": 5
+  },
+  "text7": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 1.4,
+    "col": 7,
+    "height": 0.6,
+    "width": 5
+  },
+  "text8": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "col": 7,
+    "height": 0.6,
+    "width": 4
+  },
+  "text9": {
+    "container": "tabbedContainer2",
+    "subcontainer": "58b3a",
+    "row": 0.6,
+    "col": 7,
+    "height": 0.6,
+    "width": 5
+  },
+  "textInput1": {
+    "container": "form1",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 5
+  },
+  "textInput10": {
+    "container": "form1",
+    "row": 12.2,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "textInput11": {
+    "container": "form1",
+    "row": 12.2,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "textInput12": {
+    "container": "form2",
+    "row": 8.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput13": {
+    "container": "form2",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput2": {
+    "container": "form1",
+    "row": 1,
+    "col": 6,
+    "height": 0.2,
+    "width": 5
+  },
+  "textInput3": {
+    "container": "form1",
+    "row": 1.2,
+    "col": 6,
+    "height": 0.2,
+    "width": 5
+  },
+  "textInput4": {
+    "container": "form1",
+    "row": 6.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput5": {
+    "container": "form1",
+    "row": 7,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput6": {
+    "container": "form1",
+    "row": 7.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput7": {
+    "container": "form1",
+    "row": 7.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput8": {
+    "container": "form1",
+    "row": 7.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInput9": {
+    "container": "form1",
+    "row": 12.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "timeline1": {
+    "container": "container1",
+    "subcontainer": "bac5c",
+    "row": 5.2,
+    "col": 1,
+    "height": 3.6,
+    "width": 4
+  }
+}
